@@ -28,7 +28,7 @@ olivizhengzejun@gmail.com
 *  Worked alongside teams within the business or the management team to provide data strategies.
 
 ## Leadership Experience
-**organization Name: HUA Voice Radio - Radio Anchor(Seattle, WA)**
+**Organization Name: HUA Voice Radio - Radio Anchor(Seattle, WA)**
 
 **Date: September 2019 to Presnt**
 
