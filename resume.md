@@ -13,6 +13,8 @@ olivizhengzejun@gmail.com
 * An impressive individual with proven communication, interpersonal and organization abilities.
 * An outgoing applicant with exemplary time-management, teamwork, and execution abilities.
 * A detail-oriented applicant with the ability to accomplish multi-tasks with time and quality.
+## My Favorite Quote
+>If you know what you're worth, go and get what you're worth. --Rocky
 
 # Work Experience
 ## Internship
@@ -70,6 +72,3 @@ olivizhengzejun@gmail.com
 * Chinese(Native)
 * English(proficiency)
 * French(Beginner)
-
-## My Favorite Quote
->If you know what you're worth, go and get what you're worth. --Rocky
