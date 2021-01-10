@@ -7,7 +7,6 @@ olivizhengzejun@gmail.com
 [linkedin](www.linkedin.com/in/zejun-zheng)
 
 # About Me
-
 * A diligent, skillful and high-organized applicant who shows great flairs about interpreting data andturning it into information which can offer ways to improve a business.
 * An independent and interdisciplinary applicant who developed exceptional data analysis andstatistics capabilities during the internship experience and years of overseas study.
 * An impressive individual with proven communication, interpersonal and organization abilities.
@@ -22,6 +21,8 @@ olivizhengzejun@gmail.com
 
 **Date: June 2018 to August 2018**
 
+<img src="https://i.pinimg.com/originals/5d/db/ff/5ddbff7dc76bdbcba09fcb0a5afa8b0e.jpg" width="130" height="100" />
+
 **Summary**:
 * Interpreted data, analyzed results by exercising statistical techniques and providing related reports.
 *  Updated data in a timely and accurate manner, and uploaded advertisements to various media.
@@ -34,12 +35,16 @@ olivizhengzejun@gmail.com
 
 **Date: September 2019 to Presnt**
 
+<img src="https://hub.washington.edu/wordpress/wp-content/uploads/2016/11/HAN_HuaVoice-300x284.png" width="130" height="100" />
+
 **Summary**:
 * Conducted interviews with various CEO and event organizers, as well as tutors and participants of "The Voice of University of Washington", and once served as hostess in "U can U Bi Bi "
 * Delivered broadcasting regularly every week and then upload to Himalaya FM.
 
 # Education
 ## University of Washington (Seattle, WA)
+
+<img src="https://posters.hsa.washington.edu/wp-content/uploads/2018/09/UW-Logo.png" width="130" height="110" />
 
 [University of Washington][]
 >University of Washington is the country's top public research institution and one of the oldest universities on the West Coast.
