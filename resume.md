@@ -39,7 +39,9 @@ olivizhengzejun@gmail.com
 # Education
 ## University of Washington (Seattle, WA)
 
-*[University 1][] University of Washington is the country's top public research institution and one of the oldest universities on the West Coast.*
+[University of Washington][]
+>University of Washington is the country's top public research institution and one of the oldest universities on the West Coast.
+--U.S. News & World Report
 
 **Major: Geography: data science**
 
@@ -47,7 +49,7 @@ olivizhengzejun@gmail.com
 
 **Core Module: computer science, statistic, GIS**
 
-[University 1]: https://www.washington.edu/
+[University of Washington]: https://www.washington.edu/
 
 # Skills
 * Python
@@ -68,3 +70,6 @@ olivizhengzejun@gmail.com
 * Chinese(Native)
 * English(proficiency)
 * French(Beginner)
+
+## My Favorite Quote
+>If you know what you're worth, go and get what you're worth. --Rocky
