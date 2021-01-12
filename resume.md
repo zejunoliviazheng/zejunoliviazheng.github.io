@@ -4,7 +4,7 @@
 
 olivizhengzejun@gmail.com
 
-[linkedin](www.linkedin.com/in/zejun-zheng)
+[linkedin](https://www.linkedin.com/in/zejun-zheng/)
 
 # About Me
 * A diligent, skillful and high-organized applicant who shows great flairs about interpreting data andturning it into information which can offer ways to improve a business.
